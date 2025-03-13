@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Suman Chakrabortty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=sumanch8514" alt="sumanch8514" /></a> </p>
+
 <img align="right" alt="Coding" width="400" src="https://sumanonline.likesyou.org/SumanPhotoGallery/uploads/@SumanOnline_animated_coding.gif">
+
 - 🔭 I’m currently working on [SumanPhotoGallary](https://sumanonline.likesyou.org/SumanPhotoGallery/)
 
 - 👨‍💻 All of my projects are available at [Projects](https://sumanonline.com/Projects/)
